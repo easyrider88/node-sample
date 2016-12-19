@@ -1,0 +1,19 @@
+{
+  "name": "node-sample",
+  "version": "1.0.0",
+  "description": "my sample",
+  "main": "console.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/easyrider88/node-sample.git"
+  },
+  "author": "a.rebrov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/easyrider88/node-sample/issues"
+  },
+  "homepage": "https://github.com/easyrider88/node-sample#readme"
+}
